@@ -13,3 +13,18 @@ Stakeholders </br>
 (individuals or organizations having a right, share, claim, or interest in a system or in its possession of characteristics that meet their needs and expectations)</br>
 Timelines </br>
 (for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)</br>
+Timeline
+Week: 
+
+Chapter One - Why we Program? (3 hours)
+Chapter Two: Variables and Expressions (3 hours)
+Chapter Three: Conditional Code (3 hours)
+Chapter Five: Loops and Iteration (3 hours)
+Chapter Four: Functions (2 hours)
+Chapter Seven: Files (3 hours)
+Chapter Eight: Lists (3 hours)
+Chapter Six: Strings (3 hours)
+Chapter Nine: Dictionaries (3 hours)
+Chapter Ten: Tuples (2 hours)
+Graduation and work on independent program (2 hours)
+Complete independent program (2 hours)
