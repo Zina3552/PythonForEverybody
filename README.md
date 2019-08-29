@@ -23,8 +23,8 @@ Week:
 **Chapter Four:** Functions (2 hours)</br>
 **Chapter Seven:** Files (3 hours)</br>
 **Chapter Eight:** Lists (3 hours)</br>
-**Chapter Six: **Strings (3 hours)</br>
+**Chapter Six:** Strings (3 hours)</br>
 **Chapter Nine:** Dictionaries (3 hours)</br>
-**Chapter Ten: **Tuples (2 hours)</br>
+**Chapter Ten:** Tuples (2 hours)</br>
 *Graduation and work on independent program (2 hours)</br>
 Complete independent program (2 hours)</br>*
